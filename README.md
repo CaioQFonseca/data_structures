@@ -1,6 +1,6 @@
 # Data Structures Module
 
-This is the repo created for the site for the Data Structures 2020 module website. It was created following the steps below: 
+This is the repo created for the site for the Data Structures 2020 module - WIT website. It was created following the steps below: 
 
 # tutors-starter
 
