@@ -1,3 +1,3 @@
-# Units with Videos
+# Lab. Assignments
 
-This topic has 2 units - these have video resources
+This topic has content for practical classes - Lab. Assignments
