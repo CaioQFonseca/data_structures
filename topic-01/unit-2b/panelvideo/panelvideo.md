@@ -1,1 +1,1 @@
-Lecture 2 - Lists and Linked Lists
+Lecture 2b - Lists and Linked Lists
