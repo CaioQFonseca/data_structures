@@ -1,0 +1,1 @@
+Lecture 3b - Application with Python Collections 
