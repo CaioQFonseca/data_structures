@@ -1,3 +1,3 @@
-Resource I
+Resource 
 
-This is not a pdf link, but a zipped archive. If it is selected the archive will be downloaded. Use this to distributed general resources.
+This is not a pdf link, but a zipped archive. When selected the archive will be downloaded. This is the jupyter notebook to be used in the practical class
