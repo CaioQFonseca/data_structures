@@ -1,2 +1,0 @@
-# Practical Class 1
-
