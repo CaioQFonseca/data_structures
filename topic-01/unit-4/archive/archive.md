@@ -1,3 +1,3 @@
 Resource 
 
-Zipped Jupyter Notebook file for practical class
+Zipped Jupyter Notebook file for practical class 2 - Hashing
