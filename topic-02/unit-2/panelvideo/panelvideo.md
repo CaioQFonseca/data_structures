@@ -1,1 +1,0 @@
-Practical Class 1
